@@ -25,7 +25,6 @@ Feature: e-Fatura Sil
     * Yönetim popupında Tamam seçilir
     * Kullanıcı işlemlerinden Çıkış seçilir
 
-    
     Examples: 
-      |	alici_Adi	 				| urun_Adi 	| aciklamasi | miktari | birimFiyat	| not 					 | unvan				     |
-      |	VirgosolFaturaVKN | Otomasyon	| Virgosol   | 400     | 100			 	| Otomasyon Not  | VirgosolOtomasyon |
+      | alici_Adi         | urun_Adi  | aciklamasi | miktari | birimFiyat | not           | unvan                   |
+      | VirgosolFaturaVKN | Otomasyon | Virgosol   |     400 |        100 | Otomasyon Not | VirgosolOtomasyon600413 |

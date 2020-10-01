@@ -10,10 +10,10 @@ Feature: e-Fatura Goster
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Göster isimli butona tıklanır
     * Yeni açılan sekmeye geçilir
-    * Yeni sekme başlığında e-Fatura var mı kontrol edilir
+    * Yeni sekme başlığında e-FATURA var mı kontrol edilir
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri      | veri_Adi 		      |
-      | VirgosolOtomasyon | VirgosolOtomasyon |
+      | filtreDegeri            | veri_Adi                |
+      | VirgosolOtomasyon600413 | VirgosolOtomasyon600413 |

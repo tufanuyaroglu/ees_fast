@@ -13,5 +13,5 @@ Feature: e-Fatura As400
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
-      | filtreDegeri | veri_Adi          | dosya                                                        |
-      | Virgosol     | VirgosolOtomasyon | C:\\Users\\Virgosol\\Desktop\\Koc_Sistem_Giris_Bilgileri.txt |
+      | filtreDegeri            | veri_Adi          | dosya                                                        |
+      | VirgosolOtomasyon600413 | VirgosolOtomasyon | C:\\Users\\Virgosol\\Desktop\\Koc_Sistem_Giris_Bilgileri.txt |

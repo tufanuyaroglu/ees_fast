@@ -9,7 +9,7 @@ Feature: VKN ile e-Serbest Meslek Makbuzu Olusturulmasi ve Excele aktarilmasi
     * Alıcı adı alanına <alici_Adi> girilir
     * Gönderim Şekli Elektronik olarak seçilir
     * Döküman Para Birimi alanından Türk Lirası seçilir
-    * Tasarım alanından e-Serbest Meslek Makbuz Öndeğer Şablon Tasarım seçilir
+    * Tasarım alanından e-Serbest Meslek Makbuz Öndeger Sablon Tasarim.xslt- seçilir
     * Ekle butonuna basılır
 		* Ürün ekleme alanında Ücretin Ne İçin Alındığı başlığına <urun_Adi> girilir
     * Ürün ekleme alanında Brüt Ücret başlığına <brut> girilir

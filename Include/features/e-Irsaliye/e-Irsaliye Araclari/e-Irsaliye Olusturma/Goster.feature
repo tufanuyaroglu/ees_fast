@@ -12,8 +12,8 @@ Feature: e-Irsaliye Goster
     * Yeni açılan sekmeye geçilir
     * Yeni sekme başlığında e-İRSALİYE var mı kontrol edilir
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	    | veri_Adi          |
-      | VirgosolOtomasyon	| VirgosolOtomasyon |
+      | filtreDegeri            | veri_Adi                |
+      | VirgosolOtomasyon646758 | VirgosolOtomasyon646758 |

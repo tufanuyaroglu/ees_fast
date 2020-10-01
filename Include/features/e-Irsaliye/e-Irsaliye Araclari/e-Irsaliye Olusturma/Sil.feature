@@ -26,5 +26,5 @@ Feature: e-Irsaliye Sil
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
-      | alici_Adi           | malzeme_adi | aciklamasi | miktari | birimFiyat | not           | unvan             |
-      | VirgosolIrsaliyeVKN | Otomasyon   | Virgosol   |     400 |        100 | Otomasyon Not | VirgosolOtomasyon |
+      | alici_Adi           | malzeme_adi | aciklamasi | miktari | birimFiyat | not           | unvan                   |
+      | VirgosolIrsaliyeVKN | Otomasyon   | Virgosol   |     400 |        100 | Otomasyon Not | VirgosolOtomasyon646758 |

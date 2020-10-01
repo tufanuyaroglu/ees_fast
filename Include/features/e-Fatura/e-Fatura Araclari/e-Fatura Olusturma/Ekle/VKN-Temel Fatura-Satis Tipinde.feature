@@ -17,8 +17,8 @@ Feature: VKNo ile Temel Fatura senaryosunda ve Satis tipinde fatura olusturulmas
     * Notlar alanına <not> girilir
     * Kaydet butonu seçilir
     * Tabloda <unvan> ünvanlı veri oluşturuldu mu
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      |	alici_Adi	 				| urun_Adi 	| aciklamasi | miktari | birimFiyat	| not 					 | unvan				     |
-      |	VirgosolFaturaVKN | Otomasyon	| Virgosol   | 400     | 100			 	| Otomasyon Not  | VirgosolOtomasyon |
+      | alici_Adi         | urun_Adi  | aciklamasi | miktari | birimFiyat | not           | unvan                   |
+      | VirgosolFaturaVKN | Otomasyon | Virgosol   |     400 |        100 | Otomasyon Not | VirgosolOtomasyon600413 |

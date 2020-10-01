@@ -7,7 +7,6 @@ Feature: TCKNo ile Hal Tipi Irsaliye senaryosunda irsaliye olusturulmasi ve Exce
     * Butonlardan Ekle isimli butona tıklanır
     * Görsel tasarım sayfasının İrsaliye Bilgileri başlığını içerdiği kontrol edilir
     * Alıcı adı alanına <alici_Adi> girilir
-    
     * Senaryo alanından Hal Tipi İrsaliye seçilir
     * Döküman Para Birimi alanından Euro seçilir
     * Tasarım alanından irsaliye.xslt seçilir

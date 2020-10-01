@@ -7,7 +7,6 @@ Feature: TCKNo ile Temel Irsaliye senaryosunda irsaliye olusturulmasi ve Excele 
     * Butonlardan Ekle isimli butona tıklanır
     * Görsel tasarım sayfasının İrsaliye Bilgileri başlığını içerdiği kontrol edilir
     * Alıcı adı alanına <alici_Adi> girilir
-    
     * Senaryo alanından Temel İrsaliye seçilir
     * Döküman Para Birimi alanından Euro seçilir
     * Tasarım alanından irsaliye.xslt seçilir

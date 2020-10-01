@@ -11,8 +11,8 @@ Feature: e-Irsaliye Excele Aktar
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
     * Ön eki İrsaliyeler olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	    | veri_Adi          |
-      | VirgosolOtomasyon	| VirgosolOtomasyon |
+      | filtreDegeri            | veri_Adi                |
+      | VirgosolOtomasyon646758 | VirgosolOtomasyon646758 |

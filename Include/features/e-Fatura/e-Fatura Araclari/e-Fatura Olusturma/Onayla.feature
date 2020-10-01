@@ -8,11 +8,11 @@ Feature: e-Fatura Onaylama
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Onayla isimli butona tıklanır
+    * Butonlardan Gönder isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
     * Yönetim popupında Onayla seçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri      | veri_Adi 		      |
-      | VirgosolOtomasyon | VirgosolOtomasyon |
+      | filtreDegeri            | veri_Adi                |
+      | VirgosolOtomasyon600413 | VirgosolOtomasyon600413 |

@@ -16,5 +16,5 @@ Feature: e-Irsaliye Degistir
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
-      | filtreDegeri      | veri_Adi          | not                    | unvan             |
-      | VirgosolOtomasyon | VirgosolOtomasyon | Otomasyon Not Degistir | VirgosolOtomasyon |
+      | filtreDegeri            | veri_Adi                | not                    | unvan                   |
+      | VirgosolOtomasyon646758 | VirgosolOtomasyon646758 | Otomasyon Not Degistir | VirgosolOtomasyon646758 |

@@ -10,8 +10,8 @@ Feature: e-Fatura Tumunu Excel e Aktar
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
     * Ön eki UserInvoice olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | veri_Adi 		      |										
-      | VirgosolOtomasyon |
+      | veri_Adi                |
+      | VirgosolOtomasyon600413 |

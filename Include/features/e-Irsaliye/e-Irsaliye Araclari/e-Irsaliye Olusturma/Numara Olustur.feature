@@ -13,10 +13,8 @@ Feature: e-Irsaliye Numara Olusturma
     * Yönetim popupında Onayla seçilir
     * Popup mesajı oluşmuştur içeriyor mu
     * Yönetim popupında Tamam seçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	    | veri_Adi          |
-      | VirgosolOtomasyon	| VirgosolOtomasyon |
-            
- 
+      | filtreDegeri            | veri_Adi                |
+      | VirgosolOtomasyon646758 | VirgosolOtomasyon646758 |

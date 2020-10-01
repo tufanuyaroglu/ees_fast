@@ -14,7 +14,7 @@ Feature: VKNo ile Kamu senaryosunda ve Istisna tipinde fatura olusturulmasi ve E
     * Tasarım alanından Mavi Temali e-Fatura Öndeger Sablon Tasarim.xslt- seçilir
     * Sipariş bilgileri UUC-SAT-1200001 ve 31.04.2020 olarak girilir
     * İrsaliye Bilgileri AAAAAAAAAA,31.04.2020 olarak girilir
-    * Ödeme Bilgileri 11111111111,Türk Lirası olarak girilir
+    * Ödeme Bilgileri 11111111111111111111111111,Türk Lirası olarak girilir
     * Ek Bilgiler Gönderen,ABONENO,2000 olarak girilir
     * Ekle butonuna basılır
     * Ürün ekleme alanında Mal/Hizmet başlığına <urun_Adi> girilir
