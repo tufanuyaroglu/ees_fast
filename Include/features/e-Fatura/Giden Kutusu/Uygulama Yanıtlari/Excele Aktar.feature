@@ -12,6 +12,9 @@ Feature: Uygulama Yanitinin Excele aktarilmasi
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Excel'e Aktar butonuna tıklanır
     * Ön eki ApplicationResponse olan dosya indirildi mi
+    * Butonlardan Excel isimli butona tıklanır
+    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
+    * Ön eki ApplicationResponse olan dosya indirildi mi
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 

@@ -1,6 +1,6 @@
-Feature: Uygulama Yanitinin Excele aktarilmasi
+Feature: e-Fatura Gelen Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secilenlerin indirilmesi
 
-  Scenario Outline: Uygulama Yanitinin Excele aktarilmasi
+  Scenario Outline: e-Fatura Gelen Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secilenlerin indirilmesi
     * Giriş yapılır
     * Ana menüden e-Fatura seçilir
     * Alt menü Gelen Kutusu başlığı altındaki Uygulama Yanıtları seçilir
@@ -9,11 +9,11 @@ Feature: Uygulama Yanitinin Excele aktarilmasi
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel'e Aktar butonuna tıklanır
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan UBL Seçilenleri İndir butonuna tıklanır
     * Ön eki ApplicationResponse olan dosya indirildi mi
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan UBL Tümünü İndir butonuna tıklanır
     * Ön eki ApplicationResponse olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 

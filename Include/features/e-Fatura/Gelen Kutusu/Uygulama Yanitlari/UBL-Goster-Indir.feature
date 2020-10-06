@@ -1,6 +1,6 @@
-Feature: Uygulama Yanitinin Excele aktarilmasi
+Feature: e-Fatura Gelen Kutusu Uygulama Yanıtlari UBL - Goster
 
-  Scenario Outline: Uygulama Yanitinin Excele aktarilmasi
+  Scenario Outline: e-Fatura Gelen Kutusu Uygulama Yanıtlari UBL - Goster
     * Giriş yapılır
     * Ana menüden e-Fatura seçilir
     * Alt menü Gelen Kutusu başlığı altındaki Uygulama Yanıtları seçilir
@@ -9,14 +9,15 @@ Feature: Uygulama Yanitinin Excele aktarilmasi
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel'e Aktar butonuna tıklanır
-    * Ön eki ApplicationResponse olan dosya indirildi mi
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
+    * Butonlardan UBL isimli butona tıklanır
+    * Yeni açılan sekmeye geçilir
+    * <tag> tagli ubl geldi mi
+    * Ana sekmeye geçilir
+    * Butonlardan UBL isimli butona tıklanır
+    * Alt butonlardan İndir butonuna tıklanır
     * Ön eki ApplicationResponse olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
-      | filtreDegeri | filtreDegeri2 | veri_Adi   |
-      | 01.01.2019   | 31.12.2019    | 5555551292 |
+      | filtreDegeri | filtreDegeri2 | veri_Adi   | tag                 |
+      | 01.01.2019   | 31.12.2019    | 5555551292 | ApplicationResponse |

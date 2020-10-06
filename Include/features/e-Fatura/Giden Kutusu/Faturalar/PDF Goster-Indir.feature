@@ -1,6 +1,6 @@
-Feature: Faturayi excele aktarma
+Feature: Faturayi pdf olarak indirme
 
-  Scenario Outline: Faturayi excele aktarma
+  Scenario Outline: Faturayi pdf olarak indirme
     * Giriş yapılır
     * Ana menüden e-Fatura seçilir
     * Alt menü Giden Kutusu başlığı altındaki Faturalar seçilir
@@ -9,13 +9,15 @@ Feature: Faturayi excele aktarma
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel'e Aktar butonuna tıklanır
-    * Ön eki E-Fatura olan dosya indirildi mi
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
-    * Ön eki E-Fatura olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
+    * Butonlardan PDF isimli butona tıklanır
+    * Alt butonlardan Göster butonuna tıklanır
+    * Yeni açılan sekmeye geçilir
+    * PDF açıldı mı
+    * Ana sekmeye geçilir
+    * Butonlardan PDF isimli butona tıklanır
+    * Alt butonlardan İndir butonuna tıklanır
+    * Ön eki Invoice olan dosya indirildi mi
+    * Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 
       | filtreDegeri	| filtreDegeri2	| veri_Adi 	              |

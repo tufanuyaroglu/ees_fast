@@ -12,6 +12,9 @@ Feature: Faturayi excele aktarma
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Excel'e Aktar butonuna tıklanır
     * Ön eki E-Fatura olan dosya indirildi mi
+    * Butonlardan Excel isimli butona tıklanır
+    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
+    * Ön eki E-Fatura olan dosya indirildi mi
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 

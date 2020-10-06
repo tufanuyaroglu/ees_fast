@@ -1,22 +1,22 @@
-Feature: Uygulama Yanitinin Excele aktarilmasi
+Feature: e-Fatura Giden Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secilenlerin indirilmesi
 
-  Scenario Outline: Uygulama Yanitinin Excele aktarilmasi
+  Scenario Outline: e-Fatura Giden Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secilenlerin indirilmesi
     * Giriş yapılır
     * Ana menüden e-Fatura seçilir
-    * Alt menü Gelen Kutusu başlığı altındaki Uygulama Yanıtları seçilir
+    * Alt menü Giden Kutusu başlığı altındaki Uygulama Yanıtları seçilir
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri> baslangic degerini yaz
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri2> bitis degerini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel'e Aktar butonuna tıklanır
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan UBL Seçilenleri İndir butonuna tıklanır
     * Ön eki ApplicationResponse olan dosya indirildi mi
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan UBL Tümünü İndir butonuna tıklanır
     * Ön eki ApplicationResponse olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
       | filtreDegeri | filtreDegeri2 | veri_Adi   |
-      | 01.01.2019   | 31.12.2019    | 5555551292 |
+      | 01.09.2020   | 16.09.2020    | 6090408038 |
