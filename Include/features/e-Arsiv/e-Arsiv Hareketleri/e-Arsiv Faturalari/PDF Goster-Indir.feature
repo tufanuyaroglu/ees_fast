@@ -14,6 +14,9 @@ Feature: e-Arsiv PDFinin indirilmesi
     * Yeni açılan sekmeye geçilir
     * PDF açıldı mı
     * Ana sekmeye geçilir
+    * Butonlardan PDF isimli butona tıklanır
+    * Alt butonlardan İndir butonuna tıklanır
+    * Ön eki EArchiveInvoice olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 

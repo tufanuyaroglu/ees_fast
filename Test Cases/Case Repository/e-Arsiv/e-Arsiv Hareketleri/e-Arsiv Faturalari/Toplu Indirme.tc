@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Tumunu Excele Aktar</name>
+   <name>Toplu Indirme</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>9ce224a3-21c2-4d7c-9d3b-c2216ad88aa3</testCaseGuid>
+   <testCaseGuid>9bb6578e-cbc4-4052-b242-40e0af863115</testCaseGuid>
 </TestCaseEntity>

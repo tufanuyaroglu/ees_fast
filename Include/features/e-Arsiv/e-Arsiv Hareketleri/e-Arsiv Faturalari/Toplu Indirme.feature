@@ -12,6 +12,9 @@ Feature: e-Arsiv Toplu Indirme - PDF Tumunun indirilmesi
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan PDF Tümünü İndir butonuna tıklanır
     * Ön eki EArchiveInvoice olan dosya indirildi mi
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan PDF Seçilenleri İndir butonuna tıklanır
+    * Ön eki EArchiveInvoice olan dosya indirildi mi
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 

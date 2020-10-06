@@ -16,6 +16,13 @@ Feature: e-Arsiv Faturasi Departman ata
     * Popup mesajı Seçilen belgeler ilgili departmanlara aktarılmıştır içeriyor mu
     * Yönetim popupında Tamam seçilir
     * Ana sekmeye geçilir
+    * Butonlardan Departman Geri Al isimli butona tıklanır
+    * Yeni açılan sekmeye geçilir
+		* <departman> isimli departman checkboxı seçilir
+		* Departman kaydedilir
+    * Popup mesajı Seçilen belgelerin ilgili departmanlardaki yetkisi kaldırılmıştır içeriyor mu
+    * Yönetim popupında Tamam seçilir
+    * Ana sekmeye geçilir
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 
