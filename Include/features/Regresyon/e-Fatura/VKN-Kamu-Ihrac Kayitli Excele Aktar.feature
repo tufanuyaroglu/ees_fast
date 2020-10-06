@@ -28,13 +28,13 @@ Feature: VKNo ile Kamu senaryosunda ve Ihrac Kayitli tipinde fatura olusturulmas
     * Tablodan <unvan> isimli veri seçilir
     * Butonlardan Numara Oluştur isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
-    * Yönetim popupında Onayla seçilir
+    * Yönetim popupında Evet seçilir
     * Popup mesajı oluşmuştur içeriyor mu
     * Yönetim popupında Tamam seçilir
     * Tablodan <unvan> isimli veri seçilir
     * Butonlardan Gönder isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
-    * Yönetim popupında Onayla seçilir
+    * Yönetim popupında Evet seçilir
     * Ana menüden e-Fatura seçilir
     * Alt menü Giden Kutusu başlığı altındaki Faturalar seçilir
     * Filtrelerden Alıcı Ünvan filtresine <unvan> textini yaz

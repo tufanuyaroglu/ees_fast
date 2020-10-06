@@ -20,13 +20,13 @@ Feature: VKN ile e-Serbest Meslek Makbuzu Olusturulmasi ve Excele aktarilmasi
     * Tablodan <unvan> isimli veri seçilir
     * Butonlardan Numara Oluştur isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
-    * Yönetim popupında Onayla seçilir
+    * Yönetim popupında Evet seçilir
     * Popup mesajı oluşmuştur içeriyor mu
     * Yönetim popupında Tamam seçilir
     * Tablodan <unvan> isimli veri seçilir
     * Butonlardan Gönder isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
-    * Yönetim popupında Onayla seçilir
+    * Yönetim popupında Evet seçilir
     * Ana menüden e-Makbuz seçilir
     * Alt menü e-Serbest Meslek Uygulaması başlığı altındaki e-Serbest Meslek Makbuzları seçilir
     * Filtrelerden Alıcı Unvan filtresine <unvan> textini yaz

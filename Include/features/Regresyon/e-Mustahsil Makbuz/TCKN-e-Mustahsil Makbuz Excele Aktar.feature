@@ -18,13 +18,13 @@ Feature: TCKNo ile e-Mustahsil Makbuzu Olusturmasi ve Excele aktarilmasi
     * Tablodan <adı_soyadı> isimli veri seçilir
     * Butonlardan Numara Oluştur isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
-    * Yönetim popupında Onayla seçilir
+    * Yönetim popupında Evet seçilir
     * Popup mesajı oluşmuştur içeriyor mu
     * Yönetim popupında Tamam seçilir
     * Tablodan <adı_soyadı> isimli veri seçilir
     * Butonlardan Gönder isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
-    * Yönetim popupında Onayla seçilir
+    * Yönetim popupında Evet seçilir
     * Ana menüden e-Makbuz seçilir
     * Alt menü e-Müstahsil Uygulaması başlığı altındaki e-Müstahsil Makbuzları seçilir
     * Filtrelerden Müstahsil Ad Soyad filtresine <adı_soyadı> textini yaz
