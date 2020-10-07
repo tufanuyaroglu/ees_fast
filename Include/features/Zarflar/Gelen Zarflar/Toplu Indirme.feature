@@ -1,6 +1,6 @@
-Feature: Gelen Zarflar Toplu Indirme - UBL Tumunun indirilmesi
+Feature: Gelen Zarflar Toplu Indirme - UBL Secilenlerin indirilmesi
 
-  Scenario Outline: Gelen Zarflar Toplu Indirme - UBL Tumunun indirilmesi
+  Scenario Outline: Gelen Zarflar Toplu Indirme - UBL Secilenlerin indirilmesi
     * Giriş yapılır
     * Ana menüden Zarflar seçilir
     * Alt menüden Gelen Zarflar seçilir
@@ -9,6 +9,9 @@ Feature: Gelen Zarflar Toplu Indirme - UBL Tumunun indirilmesi
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan UBL Seçilenleri İndir butonuna tıklanır
+    * Ön eki Envelope olan dosya indirildi mi
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan UBL Tümünü İndir butonuna tıklanır
     * Ön eki Envelope olan dosya indirildi mi

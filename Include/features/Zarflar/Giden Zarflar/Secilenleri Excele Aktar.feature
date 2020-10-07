@@ -12,6 +12,9 @@ Feature: Giden Zarf excele aktar
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Seçilenleri Excel 'e Aktar butonuna tıklanır
     * Ön eki Envelope olan dosya indirildi mi
+    * Butonlardan Excel isimli butona tıklanır
+    * Alt butonlardan Tümünü Excel 'e Aktar butonuna tıklanır
+    * Ön eki Envelope olan dosya indirildi mi
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples:

@@ -12,123 +12,99 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>92dfaf54-699d-41cc-a7a0-567afc94cdd5</testSuiteGuid>
    <testCaseLink>
-      <guid>bda6816b-2893-477f-a50d-83d843ada41b</guid>
+      <guid>749d03cb-ca65-4b0e-963d-a86f866e3221</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Buton Kontrolu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Toplu Indirme</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>40d84360-e8f3-41da-9da8-8f592bec9d46</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3948c48b-4a62-44a2-977c-2fe19e95f67c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/GIB</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>28ada2a7-44e3-41f8-97c8-75bdc4ac6df3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d03b9a40-3b61-4b06-abaf-83db0d81d85a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Izleme Kayitlari</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>59cab33f-1f94-422e-b1bc-462a3d08212c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Secilenleri Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d338d341-b01b-4517-95b1-4321e7bffcff</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Tablodaki Verinin Irsaliyeleri</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>c25356f9-0ff9-49c4-95ff-1eb758b96b4a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Toplu Indirme-UBL Secilenler</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>731ef9fa-b334-490d-b2e0-f13ef565116f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Toplu Indirme-UBL Tumu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8f561c5f-debd-42c1-9069-04c3bcc060d2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Tumunu Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>501a9f97-f07c-4179-bc88-764241fd5246</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Buton Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>146c0741-4226-4bd8-8220-6f9c904e6c6b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a633e645-5b62-400a-a280-9664d41c2680</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/GIB</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a6573fd6-1311-4438-86ee-4608d9c0bd43</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>23449710-33cf-48c2-983e-2d99b5299b03</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Izleme Kayitlari</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f59352f3-e72c-4bc8-92d2-32bca8fee857</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Secilenleri Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e80a7334-d964-4912-b254-240998bf107f</guid>
+      <guid>e10791dd-fbc4-4522-8e21-b19c5cfef7bb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Tablodaki Verinin Irsaliyeleri</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>deda7db7-a85a-46c5-9043-6b2a796961dd</guid>
+      <guid>fa7ecba5-ca2e-4844-8383-b0a052027cda</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Toplu Indirme-UBL Secilenler</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Secilenleri Excele Aktar</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>b25d08af-9eaa-4a8d-94af-c7ef03d790cc</guid>
+      <guid>135dd8b4-296a-457b-ab3e-5a49b98cd9f1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Toplu Indirme-UBL Tumu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>62e671e5-57d6-45f5-9100-1cd145f80891</guid>
+      <guid>bb3d7185-5d69-46e0-81f4-84ee2551b8e8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Tumunu Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Indir</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e105c0a4-37ee-4483-b60c-30d69d74b136</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/GIB</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0b236bfe-58e0-4ddc-8af1-69b8ecf346ba</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Filtre Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b64b106e-0741-412c-96e1-cc910194c4e5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Buton Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1bd7ec26-0e3e-4dec-9919-60c48f20c9ae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Toplu Indirme</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>42ff0665-a333-4d65-8d32-2c306b827dd0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Tablodaki Verinin Irsaliyeleri</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9c92b7f4-0fe1-4f13-8c46-e7889010a47e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Secilenleri Excele Aktar</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e5cf7876-e380-4ca6-91bf-2a55bfee2f3d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Izleme Kayitlari</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>34220fd5-b04e-45cc-9b35-2ec8af18ed76</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Indir</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>485ff121-e602-43a2-bacc-bb649a975b1e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/GIB</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>964e3a14-074a-4a54-8d10-8f80bc8535ad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Filtre Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>75852f59-3107-4a59-ac48-6e6de98a1706</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Buton Kontrolu</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

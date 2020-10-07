@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Toplu Indirme-UBL Secilenler</name>
+   <name>Toplu Indirme</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>dbb1e5a8-7710-473f-b32a-aed9f3cb8d59</testCaseGuid>
+   <testCaseGuid>c48740b4-040a-44ed-b94a-8896d163e17b</testCaseGuid>
 </TestCaseEntity>
