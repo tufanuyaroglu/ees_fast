@@ -11,6 +11,9 @@ Feature: e-Serbest Meslek Makbuz Raporlari excele aktarma
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Excel 'e Aktar butonuna tıklanır
     * Ön eki serbestMeslekMakbuzuRaporlar olan dosya indirildi mi
+    * Butonlardan Excel isimli butona tıklanır
+    * Alt butonlardan Tümünü Excel 'e Aktar butonuna tıklanır
+    * Ön eki serbestMeslekMakbuzuRaporlar olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

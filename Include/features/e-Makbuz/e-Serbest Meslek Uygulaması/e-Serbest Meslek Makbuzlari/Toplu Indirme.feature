@@ -1,6 +1,6 @@
-Feature: e-Serbest Meslek Makbuzlari excele aktarma
+Feature: e-Serbest Meslek Makbuzlari Toplu Indirme - PDF Secilenlerin indirilmesi
 
-  Scenario Outline: e-Serbest Meslek Makbuzlari excele aktarma
+  Scenario Outline: e-Serbest Meslek Makbuzlari Toplu Indirme - PDF Secilenlerin indirilmesi
     * Giriş yapılır
     * Ana menüden e-Makbuz seçilir
     * Alt menü e-Serbest Meslek Uygulaması başlığı altındaki e-Serbest Meslek Makbuzları seçilir
@@ -9,12 +9,12 @@ Feature: e-Serbest Meslek Makbuzlari excele aktarma
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel 'e Aktar butonuna tıklanır
-    * Ön eki SerbestMeslekMakbuzlari olan dosya indirildi mi
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel 'e Aktar butonuna tıklanır
-    * Ön eki SerbestMeslekMakbuzlari olan dosya indirildi mi
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan PDF Seçilenleri İndir butonuna tıklanır
+    * Ön eki EArchiveInvoice olan dosya indirildi mi
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan PDF Tümünü İndir butonuna tıklanır
+    * Ön eki EArchiveInvoice olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

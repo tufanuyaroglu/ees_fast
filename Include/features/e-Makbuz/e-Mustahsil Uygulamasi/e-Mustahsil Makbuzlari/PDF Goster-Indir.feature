@@ -1,6 +1,6 @@
-Feature: e-Mustahsil Makbuzu excele aktarma
+Feature: e-Mustahsil Makbuzu PDF Indir
 
-  Scenario Outline: e-Mustahsil Makbuzu excele aktarma
+  Scenario Outline: e-Mustahsil Makbuzu PDF Indir
     * Giriş yapılır
     * Ana menüden e-Makbuz seçilir
     * Alt menü e-Müstahsil Uygulaması başlığı altındaki e-Müstahsil Makbuzları seçilir
@@ -9,13 +9,15 @@ Feature: e-Mustahsil Makbuzu excele aktarma
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel 'e Aktar butonuna tıklanır
-    * Ön eki mustahsilMakbuzlari olan dosya indirildi mi
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel 'e Aktar butonuna tıklanır
-    * Ön eki mustahsilMakbuzlari olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
+    * Butonlardan PDF isimli butona tıklanır
+    * Alt butonlardan Göster butonuna tıklanır
+    * Yeni açılan sekmeye geçilir
+    * PDF açıldı mı
+    * Ana sekmeye geçilir
+    * Butonlardan PDF isimli butona tıklanır
+    * Alt butonlardan İndir butonuna tıklanır
+    * Ön eki EPReceipt olan dosya indirildi mi
+    * Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 
       | filtreDegeri	| filtreDegeri2	| veri_Adi 	        |
