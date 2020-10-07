@@ -1,6 +1,6 @@
-Feature: Irsaliye Yanitinin excele aktarilmasi
+Feature: e-Irsaliye Giden Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secilenlerin indirilmesi
 
-  Scenario Outline: Irsaliye Yanitinin excele aktarilmasi
+  Scenario Outline: e-Irsaliye Giden Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secilenlerin indirilmesi
     * Giriş yapılır
     * Ana menüden e-İrsaliye seçilir
     * Alt menü Giden Kutusu başlığı altındaki İrsaliye Yanıtları seçilir
@@ -9,12 +9,12 @@ Feature: Irsaliye Yanitinin excele aktarilmasi
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel'e Aktar butonuna tıklanır
-    * Ön eki İrsaliye Yanıtları olan dosya indirildi mi
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
-    * Ön eki İrsaliye Yanıtları olan dosya indirildi mi
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan UBL Seçilenleri İndir butonuna tıklanır
+    * Ön eki ReceiptAdvice olan dosya indirildi mi
+    * Butonlardan Toplu İndirme isimli butona tıklanır
+    * Alt butonlardan UBL Tümünü İndir butonuna tıklanır
+    * Ön eki ReceiptAdvice olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

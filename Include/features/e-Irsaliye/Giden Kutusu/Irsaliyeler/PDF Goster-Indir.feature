@@ -1,6 +1,6 @@
-Feature: Irsaliyenin excele aktarilmasi
+Feature: Irsaliyenin PDFinin gosterilmesi
 
-  Scenario Outline: Irsaliyenin excele aktarilmasi
+  Scenario Outline: Irsaliyenin PDFinin gosterilmesi
     * Giriş yapılır
     * Ana menüden e-İrsaliye seçilir
     * Alt menü Giden Kutusu başlığı altındaki İrsaliyeler seçilir
@@ -9,12 +9,14 @@ Feature: Irsaliyenin excele aktarilmasi
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel'e Aktar butonuna tıklanır
-    * Ön eki İrsaliyeler olan dosya indirildi mi
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
-    * Ön eki İrsaliyeler olan dosya indirildi mi
+    * Butonlardan PDF isimli butona tıklanır
+    * Alt butonlardan Göster butonuna tıklanır
+    * Yeni açılan sekmeye geçilir
+    * PDF açıldı mı
+    * Ana sekmeye geçilir
+    * Butonlardan PDF isimli butona tıklanır
+    * Alt butonlardan İndir butonuna tıklanır
+    * Ön eki DespatchAdvice olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

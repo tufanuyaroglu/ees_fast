@@ -12,405 +12,291 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>5384206a-bb51-4a5b-9786-214db8fb0476</testSuiteGuid>
    <testCaseLink>
-      <guid>89410e99-5c0a-457d-8b5d-9614fae0c764</guid>
+      <guid>ec74c044-ec61-413e-8dde-a2064dabe300</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Buton Kontrolu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Varsayilan Ile Goster</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>ae57b592-9e6a-4162-bfcf-159237c54f8d</guid>
+      <guid>57950fc5-fec1-45a2-b1c4-55d777fc882b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Degistir</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/UBL-Goster-Indir</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>173baeaf-a034-4f8d-aae8-d7483e832227</guid>
+      <guid>5d221858-c21d-4d0c-beb2-1f60118611eb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Ekle/TCKN-Temel Irsaliye-Sevk Tipinde</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Toplu Indirme</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>10ead9cb-c545-4cf4-a557-37aaa13446dc</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2c171198-2bb8-486b-81af-b3aa7d57eaf9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>74158080-9508-4953-a268-7a1c5098e35f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a806fc57-24e5-4de6-a0c4-6f5431eddcd8</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Numara Olustur</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>651dd0be-e71b-4072-b29e-7c7ad859a45b</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Onayla</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f43cfbc1-500f-4b64-ac3f-02d9db2dcee6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Sil</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0db6ad33-2793-478e-b79c-4a72aba32f4d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Tumunu Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0669390a-81eb-44e7-a6e6-3ba79534f712</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/UBL</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>564923b6-2ac5-4d53-bdd5-d8b3f59ad9e1</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Buton Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>7550ebe3-1212-4688-bcf8-5f5e6a3261c6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Departman Ata_Geri Al</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2c2aa3e9-c7c2-49e4-826e-e5cfdf8ad550</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1a2d874b-9ef4-4f82-b113-57772bd5c3bd</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>fbda3717-54bd-48b0-8a2e-b28d41e1abfb</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Gorseli Ac</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0d95aaf5-4f73-4f76-98b1-7e3189132910</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Izleme Kayitlari</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>5520712f-56db-4dfc-86e3-438c5fa211da</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Toplu Indirme-UBL Secilenler</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>86eb1be1-62f5-4e98-80e9-c784eac7fa51</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Toplu Indirme-UBL Tumu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>9d693dbf-4ca7-41c1-9068-66250b7b2c68</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Tumunu Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f83856c5-a5b1-4a21-b0ef-5a14ac983d2f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/UBL-Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>21719f58-56ac-4534-ab31-9c0c321645a2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/UBL-Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>83cd319e-45ec-4103-91fb-102b5a6f5f8a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Buton Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>c13d06ef-cae7-4e2f-9dd7-0ae39ce69d64</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Departman Ata_Geri Al</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>16d5bc01-1e4c-40b4-ab46-4c8866e4862a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2b343c14-1161-4a45-925f-c26b173ae840</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>23df9f06-be8f-44da-a65a-794b3cb306e2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Gorseli Ac</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>17cb9a85-fca9-4cdb-81fd-9664f8b7adf5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/IzlemeKayitlari</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1cc5321f-656d-4d2c-ae8d-5fadc0444174</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/PDF Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>4d310f2e-67c8-44c8-8853-76ca2ef1235a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/PDF Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6f635c72-e8b1-4a23-b786-4d2f50b2ad34</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Statu Ata</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1cb6b441-baa1-4888-9c5e-abd00ace9546</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Toplu Indirme-PDF Secilenler</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>88214c08-ebd4-44fd-b6b3-fdad1c2aa62f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Toplu Indirme-PDF Tumu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>9b933c8d-2d6c-425d-8eaf-61ecacc7184d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Toplu Indirme-UBL Secilenler</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b2c4a32d-872f-4f18-8c12-fc4fea824e09</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Toplu Indirme-UBL Tumu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>205ac735-c379-4754-b46c-db88eed27de4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Tumunu Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>16535fa2-e06c-4a74-b339-1ac6b0768151</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/UBL-Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>c0fab268-fa71-4e37-be90-ffda47abf10c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/UBL-Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3cbb3b26-8cd1-415c-b12a-7eb3ee11c1b0</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Varsayilan Ile Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>9d1e874f-7919-4644-ba4d-6ec088137031</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Buton Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>fb2e8aa2-3bdc-43ec-a36d-ec71f2ee6bb0</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Departman Ata_Geri Al</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e5d18049-a5c5-43e4-bf9d-d7a9d2b9c8e5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>868f2dab-ba79-45f4-a296-97516be4b9e6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>45ff9e3d-3d18-4b1b-a392-2de6637ed25d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Gorseli Ac</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2786c90f-ad01-47dd-aabf-9fba36e604af</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Izleme Kayitlari</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0a6c3f53-76e3-4134-a1ed-d6a465fd2eb5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Toplu Indirme-UBL Secilenler</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0e4826b0-5f77-470d-b106-8811fd4aaefc</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Toplu Indirme-UBL Tumu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>89fa3a6e-f128-4c87-af68-31828ae2c4ce</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Tumunu Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>90d413d7-1f5b-445d-b95d-b6094930590d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/UBL-Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>852dcce2-0be1-481a-879d-c2a1495132d8</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/UBL-Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a734fde5-d711-4b82-8d27-f97178b09f05</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Buton Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a8c1bd63-538a-4f1d-ae25-f26d88c3baad</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Departman Ata_Geri Al</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>37c9564e-ac75-4a8e-99ef-dbc5dab1d46d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f987245e-ad5e-4ea7-9d37-1bd83fe29995</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>550cb47b-52d5-46da-9ad6-52c1ae029d8d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Gorseli Ac</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>5c16014c-1322-485a-9aad-d18059d61955</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Izleme Kayitlari</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>7fa387f2-8459-44cc-9a0d-e0d94ddbcf17</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/PDF Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a6d06c77-7be4-4fe2-ba54-4606b71f9f5d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/PDF Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>467767bb-5a36-4cdc-b50a-56fd94bb2195</guid>
+      <guid>2b7940f3-43ad-4f2e-b487-90fac393ea46</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Statu Ata</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>54744e4e-e4b2-4810-b8ab-3a33321e2b8a</guid>
+      <guid>1d5a0c7a-685c-451b-a3a8-a54b88edef92</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Toplu Indirme-PDF Secilenler</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/PDF Goster-Indir</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>4f2a5c79-f710-481f-a7c2-fd5a83a5bf46</guid>
+      <guid>20cd4348-7371-41ac-8f83-6670ab961502</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Toplu Indirme-PDF Tumu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>e54ee006-15c6-42b4-83e0-8df7a6477d1a</guid>
+      <guid>f672e9f9-1133-4886-9e01-3fdac8d42a44</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Toplu Indirme-UBL Secilenler</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Gorseli Ac</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>c511503b-c260-4e7f-8b99-12ba9f3bc8b0</guid>
+      <guid>7490b078-4aff-4bd1-84f3-dce1515f9dd1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Toplu Indirme-UBL Tumu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Filtre Kontrolu</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>de86ff96-42b0-471d-9890-81a85d89e7fd</guid>
+      <guid>41df857e-8caa-4601-8e68-abd01a2f0ef9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Tumunu Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Excele Aktar</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>ec65b33b-f21e-4062-bac8-7d36480078fc</guid>
+      <guid>9e2faba3-74ad-4447-8214-80b1fa5ef7f6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/UBL-Goster</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Departman Ata_Geri Al</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>1c00e8f4-89ae-4135-bf56-de64dbc62452</guid>
+      <guid>c117cdf4-7d30-4eeb-8e49-55c70374d399</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/UBL-Indir</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Buton Kontrolu</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>f84767b7-56bc-417f-8870-c547b33a55b7</guid>
+      <guid>ed496f15-fc8d-4435-a353-bced001f7cd0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Varsayilan Ile Goster</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/UBL-Goster-Indir</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>92cbf371-b439-4f96-b4ea-ede246678d17</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Toplu Indirme</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>db3b1dfd-f75e-441a-8377-a74cbf41a95f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Izleme Kayitlari</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9e1f307d-e8d7-4bb9-bff3-e2016c1109c0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Gorseli Ac</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8022bc6a-d969-4ca9-821a-591eade2092a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Filtre Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7e82146e-1111-47ba-bf81-d158dc49cf8d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Excele Aktar</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d79d379f-ee84-44fa-8825-4020cad52489</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Departman Ata_Geri Al</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6ef9e806-3049-4883-a331-126b1d00e591</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Buton Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dd76691e-e135-4d3f-8643-57bcb66fd3f6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Varsayilan Ile Goster</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1982ada4-a01b-42fa-a6de-8cc0cb51838d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/UBL-Goster-Indir</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d3db07ab-2bfd-4667-a25f-901e1f8f29a6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Toplu Indirme</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>60cb8721-b13a-4b9a-bf87-e5e16a1356b4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Statu Ata</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a833dd1c-b66a-487a-b048-3a4f94511325</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/PDF Goster-Indir</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2af2ef26-978d-4636-9a68-c426923a9a16</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/IzlemeKayitlari</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7ca281c6-afec-4305-ac8e-52a91bd5bc1b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Gorseli Ac</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>977d0592-4108-414a-95c3-9baa719b259c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Filtre Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d6264759-f04c-464a-b3a4-52778bbaa006</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Excele Aktar</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>33a1ab3c-5135-4413-9efc-3870cd3f2ff8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Departman Ata_Geri Al</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e20c72fe-ff44-4a11-b2ac-635d1aef8353</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Buton Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>026000c7-86d4-468b-9be3-b63398d9cd6a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/UBL-Goster-Indir</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>942dcdf6-5fd4-4477-88c5-063b9f920a49</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Toplu Indirme</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d98a13f8-b289-4c38-87f4-7a973c409c2d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Izleme Kayitlari</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a86a62e0-cfca-45f6-92b7-5e399fd56bee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Gorseli Ac</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3ca494cf-e762-44ed-8cea-c9482d17a11d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Filtre Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>44c8a46a-075b-4ef0-a477-c316b64093e3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Excele Aktar</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d302aeeb-086b-4187-b260-1059b356dc33</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Departman Ata_Geri Al</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>581551d5-b9e2-4f74-af47-6da7f4b074ef</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Buton Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e491874a-049d-4f16-b886-a699b91d1773</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/UBL</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>215a4b72-2bd5-49ce-90b3-b05eb250a152</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Sil</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4deae6ad-0f79-4897-8f83-a6043de52afb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Onayla</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1bb4a365-8545-4101-a258-f3c575651400</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Numara Olustur</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5ec6f548-6c27-4512-a7bb-acb2b2bde982</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Goster</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d46432d3-c8a9-445c-9557-06878ce748b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Filtre Kontrolu</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>06ab8f32-cd54-4692-958c-755acab26bcb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Excele Aktar</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>49581c70-6080-4ed8-8254-f0d94d645419</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Ekle/TCKN-Temel Irsaliye-Sevk Tipinde</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>651da513-078e-47ef-98d9-89532f981955</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Degistir</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>552da629-91c2-4a43-a81f-c6605d9d26be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Buton Kontrolu</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
