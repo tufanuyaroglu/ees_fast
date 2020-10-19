@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ekran ile ilgili genel kontroller yapılır.
+Alan kontrolleri, filtreleme, buton varlık kontrolü gibi</description>
+   <name>1.1.1.e-Irsaliye_Gelen Kutusu_Irsaliyeler</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63b6e743-853e-4a5e-99f9-308f209b2631</testCaseGuid>
+</TestCaseEntity>

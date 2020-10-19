@@ -10,7 +10,6 @@ Feature: Gelen Kutusu Irsaliyeler Buton Kontrolu
     * Butonlardan Yazdır var mı
     * Butonlardan PDF var mı
     * Butonlardan Varsayılan İle Göster var mı
-    * Butonlardan İzleme Kayıtları var mı
     * Butonlardan Yanıt Gönder var mı
     * Butonlardan Departman Ata var mı
     * Butonlardan Departman Geri Al var mı

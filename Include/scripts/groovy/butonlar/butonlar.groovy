@@ -64,6 +64,12 @@ class butonlar {
 	def butonVarMi(String buton) {
 		WebUI.callTestCase(findTestCase("Test Cases/Butonlar/ButonVarMi"), ["Buton":buton] , FailureHandling.STOP_ON_FAILURE)
 	}
+	
+	@When("Filtreleri Kaydet var mı")
+	def filtrelerikaydetvarmi(String buton) {
+		WebUI.callTestCase(findTestCase("Test Cases/_FromSAHI(Tufan)/00_GenelFonksiyonlar/FiltreleriKaydetButonu_Varmi") , FailureHandling.STOP_ON_FAILURE)
+	}
+
 
 	@When("Alt butonlardan (.*) var mı")
 	def altButonVarMi(String altButon) {
