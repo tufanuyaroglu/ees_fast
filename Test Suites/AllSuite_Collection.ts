@@ -589,15 +589,6 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Faturalari/PDF Goster-Indir</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Faturalari/Filtre Kontrolu</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -886,15 +877,6 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Fatura/Giden Kutusu/Faturalar/PDF Goster-Indir</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Fatura/Giden Kutusu/Faturalar/Izleme Kayitlari</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -1067,15 +1049,6 @@
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Fatura/Gelen Kutusu/Faturalar/Sertifika</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Fatura/Gelen Kutusu/Faturalar/PDF Goster-Indir</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -1318,15 +1291,6 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Irsaliye/Giden Kutusu/Irsaliyeler/PDF Goster-Indir</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Irsaliye/Giden Kutusu/Irsaliyeler/Izleme Kayitlari</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -1481,15 +1445,6 @@
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Statu Ata</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Irsaliye/Gelen Kutusu/Irsaliyeler/PDF Goster-Indir</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -1822,15 +1777,6 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzlari/PDF Goster-Indir</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzlari/Izleme Kayitlari</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
@@ -2093,15 +2039,6 @@
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzlari/Statu Ata</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Web Desktop</groupName>
-            <profileName>default</profileName>
-            <runConfigurationId>Chrome</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/_Suite Repository ( Deneysel )/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzlari/PDF Goster-Indir</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>

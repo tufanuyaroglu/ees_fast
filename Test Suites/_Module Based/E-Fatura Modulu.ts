@@ -96,12 +96,6 @@
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Sertifika</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>fd6ddccf-6b61-49d9-955e-8c06544f2bc1</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/PDF Goster-Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>c3c6d052-9526-4570-b10a-57ad0b60aaab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -220,12 +214,6 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Sertifika</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>bb7ed3f1-f514-4cfc-bbb5-2f921113ce80</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/PDF Goster-Indir</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>6151bebf-777a-416c-ad62-ea2da89f5b0e</guid>

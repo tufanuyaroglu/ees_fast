@@ -96,12 +96,6 @@
       <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Faturalari/Statu Ata</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>cd5f4a16-feed-4f69-a94e-19c92a90d2da</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Faturalari/PDF Goster-Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>4099d6d2-ab32-4853-9414-6f9d8629a921</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

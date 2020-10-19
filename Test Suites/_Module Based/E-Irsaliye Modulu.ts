@@ -36,12 +36,6 @@
       <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Statu Ata</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>1d5a0c7a-685c-451b-a3a8-a54b88edef92</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/PDF Goster-Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>20cd4348-7371-41ac-8f83-6670ab961502</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -148,12 +142,6 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/Statu Ata</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>a833dd1c-b66a-487a-b048-3a4f94511325</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliyeler/PDF Goster-Indir</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>2af2ef26-978d-4636-9a68-c426923a9a16</guid>

@@ -84,12 +84,6 @@
       <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzlari/Statu Ata</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>17949227-09a4-4b29-ba7a-6d1767be93c0</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzlari/PDF Goster-Indir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>3f4612fb-4f95-48fd-b7b6-7df54eb2c6c6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -268,12 +262,6 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzlari/Statu Ata</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>434caffb-2df1-4104-ab89-8cb0007b5ea5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzlari/PDF Goster-Indir</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>e9c00818-3252-483f-be6f-0e00a5c4be66</guid>
