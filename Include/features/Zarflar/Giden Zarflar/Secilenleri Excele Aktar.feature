@@ -10,11 +10,13 @@ Feature: Giden Zarf excele aktar
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Seçilenleri Excel 'e Aktar butonuna tıklanır
-    * Ön eki Envelope olan dosya indirildi mi
+    * Alt butonlardan Seçilenleri Excel'e Aktar butonuna tıklanır
+    * Popup mesajı Toplu Veri İndirme içeriyor mu
+    * Yönetim popupında Tamam seçilir
     * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Tümünü Excel 'e Aktar butonuna tıklanır
-    * Ön eki Envelope olan dosya indirildi mi
+    * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
+    * Popup mesajı . içeriyor mu
+    * Yönetim popupında Tamam seçilir
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples:

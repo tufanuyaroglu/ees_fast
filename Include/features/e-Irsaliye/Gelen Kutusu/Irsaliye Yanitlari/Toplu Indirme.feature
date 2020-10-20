@@ -6,15 +6,20 @@ Feature: e-Irsaliye Gelen Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secile
     * Alt menü Gelen Kutusu başlığı altındaki İrsaliye Yanıtları seçilir
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri> baslangic degerini yaz
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri2> bitis degerini yaz
+    * Filtrelerden Gönderici Ünvanı filtresine <veri_Adi> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan UBL Seçilenleri İndir butonuna tıklanır
-    * Ön eki ReceiptAdvice olan dosya indirildi mi
+    * Popup mesajı Toplu Veri İndirme içeriyor mu
+    * Yönetim popupında Tamam seçilir
+    #* Ön eki ReceiptAdvice olan dosya indirildi mi
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan UBL Tümünü İndir butonuna tıklanır
-    * Ön eki ReceiptAdvice olan dosya indirildi mi
+    * Popup mesajı . içeriyor mu
+    * Yönetim popupında Tamam seçilir
+    #* Ön eki ReceiptAdvice olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

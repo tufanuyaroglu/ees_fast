@@ -6,15 +6,18 @@ Feature: e-Serbest Meslek Makbuzlari excele aktarma
     * Alt menü e-Serbest Meslek Uygulaması başlığı altındaki e-Serbest Meslek Makbuzları seçilir
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri> baslangic degerini yaz
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri2> bitis degerini yaz
+    * Filtrelerden Müstahsil Ad Soyad filtresine <veri_Adi> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Excel 'e Aktar butonuna tıklanır
-    * Ön eki SerbestMeslekMakbuzlari olan dosya indirildi mi
+    * Popup mesajı Toplu Veri İndirme içeriyor mu
+    * Yönetim popupında Tamam seçilir
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Tümünü Excel 'e Aktar butonuna tıklanır
-    * Ön eki SerbestMeslekMakbuzlari olan dosya indirildi mi
+    * Popup mesajı . içeriyor mu
+    * Yönetim popupında Tamam seçilir
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

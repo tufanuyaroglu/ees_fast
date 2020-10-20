@@ -6,15 +6,18 @@ Feature: Uygulama Yanitinin Excele aktarilmasi
     * Alt menü Gelen Kutusu başlığı altındaki Uygulama Yanıtları seçilir
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri> baslangic degerini yaz
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri2> bitis degerini yaz
+    * Filtrelerden Gönderen VKN filtresine <veri_Adi> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Excel'e Aktar butonuna tıklanır
-    * Ön eki ApplicationResponse olan dosya indirildi mi
+    * Popup mesajı Toplu Veri İndirme içeriyor mu
+    * Yönetim popupında Tamam seçilir
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
-    * Ön eki ApplicationResponse olan dosya indirildi mi
+    * Popup mesajı . içeriyor mu
+    * Yönetim popupında Tamam seçilir
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

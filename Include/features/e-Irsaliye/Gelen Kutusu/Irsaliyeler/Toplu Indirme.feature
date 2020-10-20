@@ -14,22 +14,22 @@ Feature: e-Irsaliye Gelen Kutusu Toplu Indirme - PDF Secilenlerin indirilmesi
     * Alt butonlardan PDF Seçilenleri İndir butonuna tıklanır
     * Popup mesajı Toplu Veri İndirme içeriyor mu
     * Yönetim popupında Tamam seçilir
-    # Ön eki Invoice olan dosya indirildi mi ( indirme islemleri duzeldiginde aktif edilecek )
+    #* Ön eki Invoice olan dosya indirildi mi ( indirme islemleri duzeldiginde aktif edilecek )
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan PDF Tümünü İndir butonuna tıklanır
     * Popup mesajı . içeriyor mu
     * Yönetim popupında Tamam seçilir
-    # Ön eki Invoice olan dosya indirildi mi ( indirme islemleri duzeldiginde aktif edilecek )
+    #* Ön eki Invoice olan dosya indirildi mi ( indirme islemleri duzeldiginde aktif edilecek )
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan UBL Seçilenleri İndir butonuna tıklanır
     * Popup mesajı Toplu Veri İndirme içeriyor mu
     * Yönetim popupında Tamam seçilir
-    # Ön eki Invoice olan dosya indirildi mi
+    #* Ön eki Invoice olan dosya indirildi mi
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan UBL Tümünü İndir butonuna tıklanır
     * Popup mesajı . içeriyor mu
     * Yönetim popupında Tamam seçilir
-    # Ön eki Invoice olan dosya indirildi mi
+    #* Ön eki Invoice olan dosya indirildi mi
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
      Examples: 
