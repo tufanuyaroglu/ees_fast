@@ -23,5 +23,5 @@ Feature: e-Irsaliye Giden Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secile
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
-      | filtreDegeri | filtreDegeri2 | veri_Adi   |
-      | 01.01.2018   | 31.12.2018    | E-irsaliye |
+      | filtreDegeri | filtreDegeri2 | veri_Adi |
+      | 01.01.2018   | 31.12.2018    | Merkez   |

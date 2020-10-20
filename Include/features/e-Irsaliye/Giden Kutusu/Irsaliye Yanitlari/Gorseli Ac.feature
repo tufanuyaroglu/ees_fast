@@ -12,8 +12,8 @@ Feature: Irsaliye Yanitinin Gorselini Ac
     * Yeni açılan sekmeye geçilir
     * Yeni sekme başlığında İRSALİYE YANITI var mı kontrol edilir
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi                  |
-      | 01.04.2020		| 30.04.2020		| Logo Elektronik GIB Test	|
+      | filtreDegeri | filtreDegeri2 | veri_Adi |
+      | 01.01.2018   | 31.12.2018    | Merkez   |

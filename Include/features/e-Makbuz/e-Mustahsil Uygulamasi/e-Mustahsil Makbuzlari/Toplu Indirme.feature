@@ -24,6 +24,6 @@ Feature: e-Mustahsil Makbuzlari Toplu Indirme - PDF Secilenlerin indirilmesi
 		
     Examples: 
       | filtreDegeri	| filtreDegeri2	| veri_Adi 	        |
-      | 01.01.2019		| 31.01.2019		| Fuat Gardrop Ltd.	|
+      | 01.01.2020		| 31.01.2020		| Fuat Gardrop Ltd.	|
             
  

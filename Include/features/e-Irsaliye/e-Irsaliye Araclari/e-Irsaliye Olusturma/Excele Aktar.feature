@@ -10,12 +10,10 @@ Feature: e-Irsaliye Excele Aktar
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Excel'e Aktar butonuna tıklanır
-    * Popup mesajı Toplu Veri İndirme içeriyor mu
-    * Yönetim popupında Tamam seçilir
+    * Ön eki İrsaliyeler olan dosya indirildi mi
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Tümünü Excel'e Aktar butonuna tıklanır
-    * Popup mesajı . içeriyor mu
-    * Yönetim popupında Tamam seçilir
+    * Ön eki İrsaliyeler olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

@@ -27,4 +27,4 @@ Feature: Irsaliye Yaniti departman ata ve geri al
     
     Examples: 
       | filtreDegeri | filtreDegeri2 | veri_Adi | departman |
-      |   01.01.2018 |    31.12.2018 | GENEL    | Muhasebe  |
+      |   01.01.2018 |    31.12.2018 | Logo    | Muhasebe  |

@@ -6,7 +6,7 @@ Feature: e-Serbest Meslek Makbuzlari Toplu Indirme - PDF Secilenlerin indirilmes
     * Alt menü e-Serbest Meslek Uygulaması başlığı altındaki e-Serbest Meslek Makbuzları seçilir
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri> baslangic degerini yaz
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri2> bitis degerini yaz
-    * Filtrelerden Alıcı Ünvanı filtresine <veri_Adi> textini yaz
+    * Filtrelerden Alıcı Unvan filtresine <veri_Adi> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir

@@ -7,8 +7,7 @@ Feature: Excel e-Fatura Olusturma Excel e Aktar
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Excel isimli butona tıklanır
-    * Popup mesajı Toplu Veri İndirme içeriyor mu
-    * Yönetim popupında Tamam seçilir
+    * Ön eki eLogoExcelFatura olan dosya indirildi mi
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 

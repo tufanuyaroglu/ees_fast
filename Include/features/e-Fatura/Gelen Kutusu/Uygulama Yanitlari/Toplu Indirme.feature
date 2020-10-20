@@ -6,7 +6,7 @@ Feature: e-Fatura Gelen Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secilenl
     * Alt menü Gelen Kutusu başlığı altındaki Uygulama Yanıtları seçilir
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri> baslangic degerini yaz
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri2> bitis degerini yaz
-    * Filtrelerden Gönderici VKN filtresine <veri_Adi> textini yaz
+    * Filtrelerden Gönderen VKN filtresine <veri_Adi> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
     * Tablodan <veri_Adi> isimli veri seçilir
