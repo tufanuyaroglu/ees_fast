@@ -15,6 +15,6 @@
       <guid>d9251202-219b-4fca-a646-efe9af4ca29c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Regresyon/e-Mustahsil Makbuz/TCKN-e-Mustahsil Makbuz Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Regresyon/e-Mustahsil Makbuz/TCKN-e-Mustahsil Makbuz</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

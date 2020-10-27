@@ -15,6 +15,6 @@
       <guid>d881e139-ffa1-4d46-b1d9-63723a13e0a4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Regresyon/e-Fatura/VKN-Ihracat-Istisna Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Regresyon/e-Fatura/VKN-Ihracat-Istisna</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

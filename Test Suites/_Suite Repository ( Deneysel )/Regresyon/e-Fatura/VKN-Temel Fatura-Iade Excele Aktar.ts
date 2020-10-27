@@ -15,6 +15,6 @@
       <guid>81bbcdcd-ca49-436e-b3e4-2234351f9d84</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Regresyon/e-Fatura/VKN-Temel Fatura-Iade Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Regresyon/e-Fatura/VKN-Temel Fatura-Iade</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

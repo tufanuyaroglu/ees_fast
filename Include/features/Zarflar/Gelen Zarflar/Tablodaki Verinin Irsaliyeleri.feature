@@ -1,4 +1,4 @@
-Feature: Gelen Zarf Tablodaki Verinin Irsaliyeleri 
+Feature: Gelen Zarf Tablodaki Verinin Irsaliyeleri
 
   Scenario Outline: Gelen Zarf Tablodaki Verinin Irsaliyeleri
     * Giriş yapılır
@@ -8,14 +8,12 @@ Feature: Gelen Zarf Tablodaki Verinin Irsaliyeleri
     * Filtrelerden Oluşturma Tarihi filtresine <filtreDegeri2> bitis degerini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
-		* Tablodaki <veri_Adi> isimli verinin İrsaliyeler adlı butonuna tıklanır
-		* Yeni açılan sekmeye geçilir
-		* Tabloda veri var mı kontrol edilir
+    * Tablodaki <veri_Adi> isimli verinin Faturalar adlı butonuna tıklanır
+    * Yeni açılan sekmeye geçilir
+    * Tabloda veri var mı kontrol edilir
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
-    Examples:
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 									|
-      | 01.04.2020		| 30.04.2020		| Logo Elektronik GIB Test	|
-            
- 
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
+    Examples: 
+      | filtreDegeri | filtreDegeri2 | veri_Adi        |
+      | 01.04.2020   | 30.04.2020    | Logo Elektronik |

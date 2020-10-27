@@ -15,6 +15,6 @@
       <guid>90394797-ceb6-40b1-af52-1d7b824571de</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Regresyon/e-Fatura/VKN-Kamu-Ihrac Kayitli Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Regresyon/e-Fatura/VKN-Kamu-Ihrac Kayitli</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

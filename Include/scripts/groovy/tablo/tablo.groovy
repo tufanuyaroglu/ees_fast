@@ -84,4 +84,9 @@ class tablo {
 	def adliKlasorSecilir(String klasor) {
 		WebUI.callTestCase(findTestCase("Test Cases/Tablo/KlasorSecilir"), ["Klasor":klasor] , FailureHandling.STOP_ON_FAILURE)
 	}
+	
+	@When("Tablodaki tüm veriler silinir")
+	def olusturmaTarihi() {
+		WebUI.callTestCase(findTestCase("Test Cases/Tablo/Olusturma Tarihi"), [:])
+	}
 }

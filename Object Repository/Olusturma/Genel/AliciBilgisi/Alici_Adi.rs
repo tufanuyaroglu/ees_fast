@@ -3,21 +3,18 @@
    <description></description>
    <name>Alici_Adi</name>
    <tag></tag>
-   <elementGuidId>db474096-80c5-4371-929f-4659add1ac99</elementGuidId>
+   <elementGuidId>ae8c4e9d-08c8-417b-bd0d-d0174c4ff30f</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//tr[@id='GridViewCustomer_DXDataRow0']/td[2]</value>
       </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;GridViewCustomer_DXDataRow0&quot;)/td[@class=&quot;dxgv&quot;][count(. | //*[(text() = 'VirgosolArsivVKN' or . = 'VirgosolArsivVKN') and @ref_element = 'Object Repository/dene/Page_LOGO e-Fatura/iframe_Alc Bilgisi_customerselectiframe']) = count(//*[(text() = 'VirgosolArsivVKN' or . = 'VirgosolArsivVKN') and @ref_element = 'Object Repository/dene/Page_LOGO e-Fatura/iframe_Alc Bilgisi_customerselectiframe'])]</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,10 +35,10 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>VirgosolArsivVKN</value>
+      <value>VirgosolIrsaliyeVKN</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -52,7 +49,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Olusturma/Genel/AliciBilgisi/Alici_Bilgisi</value>
+      <value>Object Repository/Olusturma/Genel/AliciBilgisi/iframe_Alc Bilgisi_customerselectiframe</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +77,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='VirgosolOtomasyon39267'])[1]/preceding::td[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VirgosolOtomasyon646758'])[1]/preceding::td[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +91,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='VirgosolArsivVKN']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='VirgosolIrsaliyeVKN']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

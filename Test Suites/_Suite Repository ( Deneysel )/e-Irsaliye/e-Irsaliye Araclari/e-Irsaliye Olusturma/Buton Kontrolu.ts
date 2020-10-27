@@ -15,6 +15,6 @@
       <guid>226b717d-db23-428f-8cdc-af638bd9f3be</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Buton Kontrolu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Ekran Kontrolu</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

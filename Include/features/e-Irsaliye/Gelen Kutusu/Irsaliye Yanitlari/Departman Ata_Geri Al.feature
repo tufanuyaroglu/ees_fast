@@ -24,7 +24,7 @@ Feature: Irsaliye Yaniti departman ata ve geri al
     * Yönetim popupında Tamam seçilir
     * Ana sekmeye geçilir
     * Kullanıcı işlemlerinden Çıkış seçilir
-    
+
     Examples: 
       | filtreDegeri | filtreDegeri2 | veri_Adi | departman |
-      |   01.01.2018 |    31.12.2018 | Logo    | Muhasebe  |
+      | 01.01.2018   | 31.12.2018    | Logo     | Muhasebe  |

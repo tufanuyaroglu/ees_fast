@@ -4,6 +4,9 @@ Feature: e-Mustahsil Makbuzu Olusturma
     * Giriş yapılır
     * Ana menüden e-Makbuz seçilir
     * Alt menü e-Müstahsil Uygulaması başlığı altındaki e-Müstahsil Makbuzu Oluşturma seçilir
+    #Önceki belgeleri silme.
+    * Tablodaki tüm veriler silinir
+    #Belge oluşturma.
     * Butonlardan Ekle isimli butona tıklanır
     * Görsel tasarım sayfasının Makbuz Bilgileri başlığını içerdiği kontrol edilir
     * Alıcı adı alanına <alici_Adi> girilir
@@ -14,8 +17,37 @@ Feature: e-Mustahsil Makbuzu Olusturma
     * Notlar alanına <not> girilir
     * Kaydet butonu seçilir
     * Tabloda <unvan> ünvanlı veri oluşturuldu mu
+    #Belgeyi değiştirme.
+    * Tablodan <unvan> isimli veri seçilir
+    * Butonlardan Değiştir isimli butona tıklanır
+    * Görsel tasarım sayfasının Makbuz Bilgileri başlığını içerdiği kontrol edilir
+    * Notlar alanına <not1> girilir
+    * Kaydet butonu seçilir
+    * Tabloda <unvan> ünvanlı veri oluşturuldu mu
+    #Belgeye numara oluşturma.
+    * Tablodan <unvan> isimli veri seçilir
+    * Butonlardan Numara Oluştur isimli butona tıklanır
+    * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
+    * Yönetim popupında Evet seçilir
+    * Popup mesajı oluşmuştur içeriyor mu
+    * Yönetim popupında Tamam seçilir
+    #Belgeyi gösterme.
+    * Tablodan <unvan> isimli veri seçilir
+    * Butonlardan Göster isimli butona tıklanır
+    * Yeni açılan sekmeye geçilir
+    * Yeni sekme başlığında e-Müstahsil Makbuzu var mı kontrol edilir
+    * Ana sekmeye geçilir
+    #Belgenin UBL'ini gösterme
+    * Butonlardan UBL isimli butona tıklanır
+    * Yeni açılan sekmeye geçilir
+    * <tag> tagli ubl geldi mi
+    * Ana sekmeye geçilir
+     #Belgeyi gönderme.
+    * Butonlardan Gönder isimli butona tıklanır
+    * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
+    * Yönetim popupında Evet seçilir
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
-      | alici_Adi           | malzeme_adi | miktari | stopaj_Orani | not           | unvan    |
-      | VirgosolMüstahsilTC | Otomasyon   |     400 |           10 | Otomasyon Not | Virgosol |
+      | alici_Adi           | malzeme_adi | miktari | stopaj_Orani | not           | not1                   | unvan    | tag        |
+      | VirgosolMüstahsilTC | Otomasyon   |     400 |           10 | Otomasyon Not | Otomasyon Not Değiştir | Virgosol | CreditNote |

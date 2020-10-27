@@ -15,6 +15,6 @@
       <guid>8a8e7abe-eb55-4a07-b9a9-62dd8eac9f91</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Regresyon/e-Serbest Meslek Makbuzu/VKN-e-Serbest Meslek Makbuzu-Elektronik Excel Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Regresyon/e-Serbest Meslek Makbuzu/VKN-e-Serbest Meslek Makbuzu-Elektronik</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

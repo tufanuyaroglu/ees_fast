@@ -11,10 +11,4 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>de3d0c37-d229-4235-9243-aff240437d5b</testSuiteGuid>
-   <testCaseLink>
-      <guid>d56d3b12-632e-451e-b441-dbaf7c9804c3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Onayla</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>

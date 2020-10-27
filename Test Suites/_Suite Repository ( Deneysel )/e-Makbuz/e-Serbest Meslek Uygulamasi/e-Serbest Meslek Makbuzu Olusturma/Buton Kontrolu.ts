@@ -15,6 +15,6 @@
       <guid>9ed64971-ef68-4425-a71d-c3b2df6e1413</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Buton Kontrolu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Ekran Kontrolu</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

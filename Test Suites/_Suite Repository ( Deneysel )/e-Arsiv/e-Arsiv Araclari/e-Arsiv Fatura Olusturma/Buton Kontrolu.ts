@@ -15,6 +15,6 @@
       <guid>64450fd5-5ff9-4bf0-ad9a-ca02847c07dd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Araclari/e-Arsiv Fatura Olusturma/Buton Kontrolu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Araclari/e-Arsiv Fatura Olusturma/Ekran Kontrolu</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

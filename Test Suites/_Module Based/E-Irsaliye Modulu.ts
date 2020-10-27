@@ -228,63 +228,15 @@
       <testCaseId>Test Cases/Case Repository/e-Irsaliye/Gelen Kutusu/Irsaliye Yanitlari/Buton Kontrolu</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>e491874a-049d-4f16-b886-a699b91d1773</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/UBL</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>215a4b72-2bd5-49ce-90b3-b05eb250a152</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Sil</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>4deae6ad-0f79-4897-8f83-a6043de52afb</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Onayla</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1bb4a365-8545-4101-a258-f3c575651400</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Numara Olustur</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>5ec6f548-6c27-4512-a7bb-acb2b2bde982</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>d46432d3-c8a9-445c-9557-06878ce748b1</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>06ab8f32-cd54-4692-958c-755acab26bcb</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>49581c70-6080-4ed8-8254-f0d94d645419</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Ekle/TCKN-Temel Irsaliye-Sevk Tipinde</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>651da513-078e-47ef-98d9-89532f981955</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Degistir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>552da629-91c2-4a43-a81f-c6605d9d26be</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Buton Kontrolu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/e-Irsaliye Araclari/e-Irsaliye Olusturma/Ekran Kontrolu</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

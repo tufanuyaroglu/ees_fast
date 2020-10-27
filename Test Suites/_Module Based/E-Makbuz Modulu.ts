@@ -12,58 +12,16 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>e7b3038c-e896-4369-907d-d18e66f4c6d0</testSuiteGuid>
    <testCaseLink>
-      <guid>fd454f49-6429-416a-b3e6-bf6d3ce1242a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/UBL</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>87f65554-8620-4ea2-ba1a-14e9fc161749</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Sil</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f19c4f77-ab35-4d1b-9e9f-4459112ff11a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Onayla</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>5dfc66e9-c608-4e82-a492-bd4e85d0adb3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Numara Olustur</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b32e48ef-8b1d-478d-a26c-a5f4ec3c1a25</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b4df45d2-cb70-465e-b838-dc6c9204edb1</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>70ca9a1d-3d1f-430f-a863-2d7023eee45e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Ekle/Elektronik Tipinde</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>6e307b6d-5c58-4dd5-93c6-5aaaf3d9c080</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Degistir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>5520e1b8-0c9c-49b1-bc3e-c66c7ce7b579</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Buton Kontrolu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzu Olusturma/Ekran Kontrolu</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>842f9dea-cb33-472e-ada1-f94a88111dc7</guid>
@@ -192,58 +150,16 @@
       <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Raporlari/Buton Kontrolu</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>e0e3a52f-e4ec-4409-9b31-be6e8cbe7248</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/UBL</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>eb77b5bc-5810-40fb-98a3-aa9dda3a505c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Sil</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>6518badf-db3f-4ad4-b6e7-317240795eaa</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Onayla</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>97b2f0f7-1519-4758-96cb-85180f2d373d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Numara Olustur</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>8e547b4d-9fa5-4204-ad92-3cb5a166263d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>c8db431a-ef09-4c3b-9102-8250e2d2a736</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>bcbcd43d-4ec3-4e59-8552-27b9f6632863</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Ekle</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>11d8f5fd-5c39-40dc-9e85-eb7eb80a3415</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Degistir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>75dc6d45-2cfa-4c98-8ecc-18a87504d423</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Buton Kontrolu</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Olusturma/Ekran Kontrolu</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>41eb5d9e-740c-4067-bcc5-2e86763b1381</guid>

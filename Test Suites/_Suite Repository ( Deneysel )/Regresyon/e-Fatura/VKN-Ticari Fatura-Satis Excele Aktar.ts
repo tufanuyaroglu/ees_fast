@@ -15,6 +15,6 @@
       <guid>19399c0b-a4ca-40b8-aaba-042ad3b44871</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Regresyon/e-Fatura/VKN-Ticari Fatura-Satis Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Regresyon/e-Fatura/VKN-Ticari Fatura-Satis</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

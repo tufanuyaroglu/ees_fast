@@ -282,69 +282,15 @@
       <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Taslak/Buton Kontrolu</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>2906f5ef-0746-4ef2-8a0b-d183256537c1</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/UBL</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3bdee493-9259-49fc-9a04-48d82998285f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Sil</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0651735b-e173-4cf6-9457-f8b7f3a7f39f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Onayla</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>b7b6d0e0-699f-412a-a872-d1b1c9e14e35</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Numara Olustur</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>bbbb00de-c67b-4986-bbf9-34e5e3f0e117</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Goster</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>186469b4-6f53-40f9-8bed-9e8835a264af</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Filtre Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>53a9de32-0969-42c8-bf84-cdf12c40d445</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Excele Aktar</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>f0628439-87de-4280-8f75-1aae6281aeb9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Ekle/VKN-Temel Fatura-Satis Tipinde</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>5d2898dd-85e8-4049-81dc-3df617077e4c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Degistir</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
       <guid>d2a5e306-e35d-42d1-9a35-83ccc338b1b0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Buton Kontrolu</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>fd17065c-338e-442d-8c91-d148bdd860ab</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/As400</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/Ekran Kontrolu</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

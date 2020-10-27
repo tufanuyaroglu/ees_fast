@@ -15,6 +15,6 @@
       <guid>5d79d8aa-5b50-4d50-af71-32bc6daea11a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Regresyon/e-Arsiv/VKN-Kagit-Iade Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Regresyon/e-Arsiv/VKN-Kagit-Iade</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

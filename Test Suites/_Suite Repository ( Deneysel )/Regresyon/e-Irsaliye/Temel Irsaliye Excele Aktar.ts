@@ -15,6 +15,6 @@
       <guid>9c20928f-0ded-4369-afb7-cfbc35ea285b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Regresyon/e-Irsaliye/Temel Irsaliye Excele Aktar</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Regresyon/e-Irsaliye/Temel Irsaliye</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
