@@ -18,14 +18,14 @@ import internal.GlobalVariable as GlobalVariable
 
 CustomKeywords.'Method.TextDegerineEsitElementeTikla'(findTestObject('Olusturma/Genel/Kutular/KapaliKutular'), 'Taşıyıcı Firma Bilgileri')
 
-WebUI.waitForElementClickable(findTestObject("Object Repository/Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/FirmaImage"), 10)
+WebUI.waitForElementClickable(findTestObject('Object Repository/Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/FirmaImage'), 
+    10)
 
-WebUI.click(findTestObject("Object Repository/Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/FirmaImage"))
+WebUI.click(findTestObject('Object Repository/Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/FirmaImage'))
 
-WebUI.waitForElementClickable(findTestObject('Object Repository/Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/Firma'), 10)
-s
-WebUI.clearText(findTestObject('Object Repository/Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/Firma'))
+WebUI.waitForElementClickable(findTestObject('Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/FirmaImage'), 10)
 
-WebUI.sendKeys(findTestObject('Object Repository/Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/Firma'), Firma)
+WebUI.clearText(findTestObject('Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/FirmaImage'))
 
-CustomKeywords.'Method.TextDegerineEsitElementeTikla'(findTestObject('Object Repository/Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/FirmaAdi'), Firma)
+WebUI.sendKeys(findTestObject('Olusturma/Genel/Kutular/TasiyiciFirmaBilgileri/FirmaImage'), Firma)
+

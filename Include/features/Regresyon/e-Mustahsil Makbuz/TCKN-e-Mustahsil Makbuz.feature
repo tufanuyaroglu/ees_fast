@@ -1,7 +1,7 @@
 Feature: TCKNo ile e-Mustahsil Makbuzu Olusturmasi ve Excele aktarilmasi
 
   Scenario Outline: TCKNo ile e-Mustahsil Makbuzu Olusturmasi ve Excele aktarilmasi
- 		* Giriş yapılır
+    * Giriş yapılır
     * Ana menüden e-Makbuz seçilir
     * Alt menü e-Müstahsil Uygulaması başlığı altındaki e-Müstahsil Makbuzu Oluşturma seçilir
     * Butonlardan Ekle isimli butona tıklanır
@@ -30,8 +30,8 @@ Feature: TCKNo ile e-Mustahsil Makbuzu Olusturmasi ve Excele aktarilmasi
     * Filtrelerden Müstahsil Ad Soyad filtresine <adı_soyadı> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      |	alici_Adi						| malzeme_adi | miktari | birimFiyat | stopaj_Orani | not 					| adı_soyadı  	     |
-      |	VirgosolMustahsilTC	| Otomasyon   | 400     | 100        | 10           | Otomasyon Not | Virgosol Otomasyon |
+      | alici_Adi             | malzeme_adi | miktari | birimFiyat | stopaj_Orani | not           | adı_soyadı               |
+      | VirgosolMüstahsilTCKN | Otomasyon   |     400 |        100 |           10 | Otomasyon Not | Virgosol Otomasyon709886 |

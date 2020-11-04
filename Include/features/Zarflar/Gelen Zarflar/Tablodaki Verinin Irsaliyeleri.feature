@@ -12,6 +12,11 @@ Feature: Gelen Zarf Tablodaki Verinin Irsaliyeleri
     * Yeni açılan sekmeye geçilir
     * Tabloda veri var mı kontrol edilir
     * Ana sekmeye geçilir
+    #İndirme işlemi
+    * Tablodan <veri_Adi> isimli veri seçilir
+    * Butonlardan İndir isimli butona tıklanır
+    * Alt butonlardan İndir butonuna tıklanır
+    * Ön eki Envelope olan dosya indirildi mi
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 

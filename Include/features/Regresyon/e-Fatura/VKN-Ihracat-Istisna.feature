@@ -25,7 +25,7 @@ Feature: VKNo ile Ihracat senaryosunda ve Istisna tipinde fatura olusturulmasi v
     * Ürün ekleme alanında Teslim Adresi başlığına e-Fatura Test A.Ş. girilir
     * Ürün ekleme alanında Gönderim Şekli başlığına Havayolu girilir
     * Ürün ekleme alanında Paket Türü başlığına 8C - Ahşap demet girilir
-    * Ürün ekleme alanında KDV İstisna Muafiyet Kodu başlığına 206  17/2-e Mesleki Kuruluşların İşlemleri girilir
+    * Ürün ekleme alanında KDV İstisna Muafiyet Kodu başlığına 206 girilir
     * Notlar alanına <not> girilir
     * Kaydet butonu seçilir
     * Tabloda <unvan> ünvanlı veri oluşturuldu mu
